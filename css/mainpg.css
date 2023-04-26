@@ -727,5 +727,7 @@ main .container .right {
       
         position: relative;
     }
-    #HED{display: none;}
+    div#HED {
+        display: none;
+    }
 }
